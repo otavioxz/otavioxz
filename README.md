@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-- Olá! Meu nome é Otavio Rodrigues, tenho 22 anos e sou desenvolvedor back-end e QA Tester com experiência em Python, Java Script & Cypress. Minha especialidade é o desenvolvimento para Bots e Automações. Sempre busco aprimorar minhas habilidades e desenvolver projetos que combinem inovação e funcionalidade. Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou troca de ideias!
+- Olá! Meu nome é Otavio Rodrigues, sou desenvolvedor back-end e QA Tester com experiência em Python, Java Script & Cypress. Minha especialidade é o desenvolvimento para Bots e Automações. Sempre busco aprimorar minhas habilidades e desenvolver projetos que combinem inovação e funcionalidade. Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou troca de ideias!
 
 ## Minhas Skills
 
@@ -32,7 +32,7 @@
 <br/>
 
 <a href="https://github.com/otavioxz" title="Perfil do Otavio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavioxz&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=otavioxz&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
