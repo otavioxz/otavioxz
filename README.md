@@ -1,41 +1,43 @@
+<h2 align="center"><code>&lt;Hello World!! I'm <b>Otavio Rodrigues</b>! /&gt;</code></h2>
+
 <div align="center">
-
-# Hello World!! I'm <b>Otavio</b>! 👋
-
-![](https://komarev.com/ghpvc/?username=otaviorodrigues&color=006bed)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=750&color=1E90FF&background=00000000&center=true&width=600&fade=false&lines=+Back-end+Developer"
+         alt="Typing SVG" />
+  </a>
 </div>
 
-## Sobre mim
+<p align="center">
+Back-end developer and QA tester focused on building <b>bots</b> and <b>automations</b> with <b>Python, JavaScript & Cypress</b>.
+</p>
 
-- Olá! Meu nome é Otavio Rodrigues, sou desenvolvedor back-end e QA Tester com experiência em Python, Java Script & Cypress. Minha especialidade é o desenvolvimento para Bots e Automações. Sempre busco aprimorar minhas habilidades e desenvolver projetos que combinem inovação e funcionalidade. Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou troca de ideias!
+## Tech Stack
 
-## Minhas Skills
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" alt="cypress logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" />
+</div>
 
-**Linguagens e Automação**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Banco de Dados**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Utilidades**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/otavioxz" title="Perfil do Otavio">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=otavioxz&theme=dracula&show_icons=true" />
-</a>
-
-## Onde me encontrar
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/otaviovzz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-rodrigues-039819291)
+<div align="center">
+  <a href="https://www.linkedin.com/in/otavio-rodrigues-039819291" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/otaviovzz" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
